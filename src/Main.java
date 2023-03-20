@@ -1,5 +1,9 @@
 import  java.util.Scanner;
 public class Main {
+    
+    /**
+     * @author  Fazlı Berk Ördek -- 20 Mart 2023
+     */
     public static void main(String[] args) {
 
         /*TODO: Java ile not Ortalaması hESAPLAYAN program:
